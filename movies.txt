@@ -1,0 +1,6 @@
+<item>
+<title>Peliculitas</title>
+<link>https://raw.githubusercontent.com/alex2523/Arbejo/master/peliculas.m3u</link>
+<thumbnail>http://i.imgur.com/7XSX5hZ.png</thumbnail>
+<fanart>http://i.imgur.com/kp6uJsd.jpg</fanart>
+</item>

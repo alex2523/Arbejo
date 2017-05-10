@@ -1,0 +1,6 @@
+<item>
+<title>Televisionsita</title>
+<link>https://raw.githubusercontent.com/alex2523/Arbejo/master/colombia.m3u</link>
+<thumbnail>http://imgur.com/aUw4OQd</thumbnail>
+<fanart>http://imgur.com/a/QvgWL</fanart>
+</item>

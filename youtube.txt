@@ -1,0 +1,6 @@
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube>kJQP7kiw5Fk?list=PL3oW2tjiIxvTV-iUuJkp1ti1Qe9gzlhRU</utube>
+<thumbnail>http://i.imgur.com/O6TTfMr.png</thumbnail>
+<fanart>http://i.imgur.com/kp6uJsd.jpg</fanart>
+</item>
